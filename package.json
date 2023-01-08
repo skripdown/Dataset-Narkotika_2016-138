@@ -1,0 +1,23 @@
+{
+  "name": "uts-ir",
+  "version": "1.0.0",
+  "description": "uts information retrieval",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "index_ir"
+  },
+  "keywords": [
+    "index_ir"
+  ],
+  "author": "malko",
+  "license": "ISC",
+  "dependencies": {
+    "excel4node": "^1.8.0",
+    "node-json-xlsx": "^0.2.2",
+    "pdf-parse": "^1.1.1"
+  }
+}
