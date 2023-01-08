@@ -22,3 +22,8 @@ Contoh output yang dihasilkan pada file excel seperti di bawah ini.
 | No Putusan  | Lembaga Peradilan | Barang Bukti | Amar Putusan |
 | ------------- | ------------- | ------------- | ------------- |
 | 205/Pid.Sus/2022/PN Bna | PN Banda Aceh | 1 (satu) buah botol minuman plastik dengan tutup warna merah yang telah terpasang satu pipet plastik warna bening. 1 (satu) buah botol minuman gelas plastik yang telah diberi dua lubang. 1 (satu) unit hp merk Strawbery 1 (satu) buah mancis. 14 (empat belas) buah pipet plastic 1 (satu) buah pipa kaca pirex. Dirampas untuk dimusnakan | Menyatakan terdakwa Syukri Bin Asnawi terbukti secara sah dan menyakinkan bersalah melakukan tindak pidana Narkotika sebagaimana didakwakan dalam dakwaan alternatif kedua melanggar Pasal 127 ayat (1) huruf a UU RI No. 35 Tahun 2009 tentang Narkotika Menghukum terdakwa Syukri Bin Asnawi dengan pidana penjara selama 3 (tiga) tahun dan 6 (enam) bulan penjara dikurangkan selama terdakwa menjalani masa tahanan dengan dengan perintah terdakwa tetap ditahan |
+
+### Mesin Pencarian
+Mesin pencarian bisa digunakan dengan menjalankan script `python search-engine.py`. Saat pertama kali dijalankan, script 
+akan membutuhkan waktu sekitar 1 menit untuk menyiapkan data. Setelah itu mesin pencarian bisa digunakan dengan memasukkan
+kata kunci berkas.
