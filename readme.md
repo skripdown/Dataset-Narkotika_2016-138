@@ -1,5 +1,5 @@
-<h1 style="text-align: center">Dataset Narkotika</h1>
-<h4 style="text-align: center">2016-138 Malik Pajar Lapele</h4>
+<h1 style="text-align: center!important">Dataset Narkotika</h1>
+<h4 style="text-align: center!important">2016-138 Malik Pajar Lapele</h4>
 
 ## Overview
 **Dataset Narkotika** merupakan repositori dataset dan program sederhana pencarian
